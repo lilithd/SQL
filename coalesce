@@ -1,0 +1,3 @@
+SELECT e.last_name, e.first_name, COALESCE (null, department_id) from hr.employees e
+  ORDER BY department_id
+;
