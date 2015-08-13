@@ -1,4 +1,4 @@
 # SQL
 
 
-These are my SQL Programs written from play.
+These are my SQL Programs written for play.
